@@ -1,0 +1,11 @@
+# Go
+/bin/
+*.exe
+*.out
+
+# Node
+node_modules/
+
+# Editor
+.DS_Store
+
