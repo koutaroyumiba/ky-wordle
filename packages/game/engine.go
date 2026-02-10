@@ -4,7 +4,7 @@ import "errors"
 
 var (
 	ErrGameOver     = errors.New("game already finished")
-	ErrInvalidGuess = errors.New("inalid guess length")
+	ErrInvalidGuess = errors.New("invalid guess length")
 )
 
 type LetterResult int
