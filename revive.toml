@@ -1,0 +1,8 @@
+ignoreGeneratedHeader = true
+enableDefaultRules = true
+
+[rule.exported]
+disabled = true
+
+[rule.package-comments]
+disabled = true
